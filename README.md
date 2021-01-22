@@ -32,4 +32,11 @@ This is a social media application where users can sign up. After signing up, th
 
 ## Usage
 
-First sign up on the landing page, that will take you to your feed page where you can view other people's posts. On the right side of that page you can type your text in your post and paste an image file if you want. Then hit submit and it should show up in the feed.
+First sign up on the landing page, that will take you to your feed page where you can view other people's posts. On the right side of that page you can type your text in your post and paste an image file if you want. Then hit submit and it should show up in the feed. Go to the profile page to change your profile picture or other information. Sign out when you are done.
+
+## Contributors
+
+* Julius Robinson
+* Diego Aviles
+* Michael Jimenez
+* James Beighley
