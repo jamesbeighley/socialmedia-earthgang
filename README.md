@@ -25,7 +25,7 @@ This is a social media application where users can sign up. After signing up, th
 
 ## Getting Started
 
-* clone the repository using 'git clone https://github.com/jamesbeighley/socialmedia-earthgang/edit/master/README.md'
+* clone the repository using 'git clone https://github.com/jamesbeighley/socialmedia-earthgang'
 * either set up your environment variables for the database url, username and password or paste them from your database inside the datasource in the application configuration file
 * Start the backend tomcat server in Spring Tool Suite
 * Start the frontend in visual studio code using 'npm install' to install the node_modules and 'npm start'
